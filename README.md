@@ -1,2 +1,2 @@
 # The-Papper-Trail
-Blog for Traders to help each other educate themselves to be better traders
+"Curious about trading? Start here. A community blog where beginners and pros learn side by side."
